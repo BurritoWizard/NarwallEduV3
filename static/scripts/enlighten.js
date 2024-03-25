@@ -1164,7 +1164,7 @@ document.addEventListener('DOMContentLoaded', () => {
   },
   {
     name: "Precision Client",
-    link: "http://raw.githack.com/3kh0/3kh0-assets/main/precision-client/index.html",
+    link: "https://html.cafe/x1ee50fa9",
     image: "/images/icons/precision.webp",
     categories: ['all'],
     error: false
